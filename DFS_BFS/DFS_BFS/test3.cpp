@@ -32,21 +32,21 @@ bool check(int x, int y) {
 	}
 }
 
-int main() {
-	cin >> n >> m;
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < m; j++) {
-			scanf_s("%1d", &graph[i][j]);
-		}
-	}
-	int ans = 0;
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < m; j++) {
-			if (check(i, j)) {
-				ans += 1;
-			}
-		}
-	}
-	cout << ans << endl;
-	return 0;
-}
+//int main() {
+//	cin >> n >> m;
+//	for (int i = 0; i < n; i++) {
+//		for (int j = 0; j < m; j++) {
+//			scanf_s("%1d", &graph[i][j]);
+//		}
+//	}
+//	int ans = 0;
+//	for (int i = 0; i < n; i++) {
+//		for (int j = 0; j < m; j++) {
+//			if (check(i, j)) {
+//				ans += 1;
+//			}
+//		}
+//	}
+//	cout << ans << endl;
+//	return 0;
+//}
