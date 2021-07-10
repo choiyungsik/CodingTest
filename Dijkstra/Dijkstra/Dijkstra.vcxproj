@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{8AF3D1C1-372C-4327-9953-71DA6D8D624B}</ProjectGuid>
-    <RootNamespace>Sorting</RootNamespace>
+    <ProjectGuid>{82E9A06E-98CD-4F40-8A5B-669157D2F104}</ProjectGuid>
+    <RootNamespace>Dijkstra</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,11 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="binary1.cpp" />
-    <ClCompile Include="binary2.cpp" />
-    <ClCompile Include="binary_test2.cpp" />
+    <ClCompile Include="FW_main.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="test4.cpp" />
+    <ClCompile Include="main2.cpp" />
+    <ClCompile Include="test3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{8AF3D1C1-372C-4327-9953-71DA6D8D624B}</ProjectGuid>
-    <RootNamespace>Sorting</RootNamespace>
+    <ProjectGuid>{1555372D-805D-4DB5-8886-B6CF7C5CB101}</ProjectGuid>
+    <RootNamespace>GraphAlgorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,11 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="binary1.cpp" />
-    <ClCompile Include="binary2.cpp" />
-    <ClCompile Include="binary_test2.cpp" />
+    <ClCompile Include="ex1.cpp" />
+    <ClCompile Include="kruskal.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="test4.cpp" />
+    <ClCompile Include="test1.cpp" />
+    <ClCompile Include="topology.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

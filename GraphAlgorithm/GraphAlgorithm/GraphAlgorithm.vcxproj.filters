@@ -18,16 +18,16 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test4.cpp">
+    <ClCompile Include="test1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="binary1.cpp">
+    <ClCompile Include="kruskal.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="binary2.cpp">
+    <ClCompile Include="topology.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="binary_test2.cpp">
+    <ClCompile Include="ex1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
