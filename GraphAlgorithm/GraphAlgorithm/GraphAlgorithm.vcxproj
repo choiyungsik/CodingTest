@@ -124,6 +124,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ex1.cpp" />
+    <ClCompile Include="ex2.cpp" />
+    <ClCompile Include="ex3.cpp" />
     <ClCompile Include="kruskal.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="test1.cpp" />
